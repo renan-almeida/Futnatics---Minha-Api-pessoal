@@ -5,14 +5,14 @@ using System.Threading.Tasks;
 
 namespace Futnatics.Models
 {
-    public class Cliente
+    public class Setor
     {
         public int Id {get; set; }
         public string Nome {get; set;}
-        public int Cpf { get; set; }
-        public int Rg { get; set; }
-        public string Endereco { get; set; }
-        public string  Email { get; set; }
+        public double Capacidade { get; set; }
+        
+        public Partida Partida { get; set; }
+        public int IdPartida { get; set; }
         
     }
 }

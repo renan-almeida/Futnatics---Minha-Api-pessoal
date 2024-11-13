@@ -31,3 +31,4 @@ C:\Users\RENAN\Futnatics\obj\Debug\net8.0\refint\Futnatics.dll
 C:\Users\RENAN\Futnatics\obj\Debug\net8.0\Futnatics.pdb
 C:\Users\RENAN\Futnatics\obj\Debug\net8.0\Futnatics.genruntimeconfig.cache
 C:\Users\RENAN\Futnatics\obj\Debug\net8.0\ref\Futnatics.dll
+C:\Users\RENAN\Futnatics\obj\Debug\net8.0\Futnatics.sourcelink.json
